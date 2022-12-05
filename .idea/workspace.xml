@@ -26,6 +26,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="inheritance_and_polymorphism" />
+                    <option name="lastUsedInstant" value="1670258174" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1670197475" />
                   </RecentBranch>
