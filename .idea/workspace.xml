@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b881240-5171-4b0a-b2d5-38abc3028de4" name="Changes" comment="OOP">
+      <change afterPath="$PROJECT_DIR$/class_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +29,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="object_methods" />
-                    <option name="lastUsedInstant" value="1670195776" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1670197475" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1670114178" />
+                    <option name="branchName" value="object_methods" />
+                    <option name="lastUsedInstant" value="1670195776" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="class_attributes" />
@@ -115,13 +116,28 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="object_methods" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
