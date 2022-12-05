@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b881240-5171-4b0a-b2d5-38abc3028de4" name="Changes" comment="OOP">
-      <change afterPath="$PROJECT_DIR$/class_methods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7b881240-5171-4b0a-b2d5-38abc3028de4" name="Changes" comment="Class methods. Parameter 'cls'. Class method '@classmethod'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670195977233</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Class methods. Parameter 'cls'. Class method '@classmethod'">
+      <created>1670200902199</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670200902199</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,7 +120,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="object_methods" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -145,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="OOP" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP" />
+    <MESSAGE value="Class methods. Parameter 'cls'. Class method '@classmethod'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class methods. Parameter 'cls'. Class method '@classmethod'" />
   </component>
 </project>
