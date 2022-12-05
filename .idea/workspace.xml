@@ -35,6 +35,10 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+                    <option name="branchName" value="magic_methods" />
+                    <option name="lastUsedInstant" value="1670277883" />
+                  </RecentBranch>
+                  <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1670260401" />
                   </RecentBranch>
