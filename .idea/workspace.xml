@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7b881240-5171-4b0a-b2d5-38abc3028de4" name="Changes" comment="Inheritance and Polymorphism">
       <change afterPath="$PROJECT_DIR$/magic_methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+=======
+    <list default="true" id="7b881240-5171-4b0a-b2d5-38abc3028de4" name="Changes" comment="Inheritance and Polymorphism" />
+>>>>>>> magic_methods
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +39,21 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
+<<<<<<< HEAD
                     <option name="branchName" value="magic_methods" />
                     <option name="lastUsedInstant" value="1670277883" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
                     <option name="lastUsedInstant" value="1670260401" />
+=======
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1670278340" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="magic_methods" />
+                    <option name="lastUsedInstant" value="1670277883" />
+>>>>>>> magic_methods
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="inheritance_and_polymorphism" />
